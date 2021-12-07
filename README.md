@@ -2,7 +2,7 @@
 
 i like to code in python cause its ez
 
-^ i am also trying to learn js
+^ i am also trying to learn java (not going well)
 
 sub to my yt  : https://youtube.com/c/tescomealdeal
 
