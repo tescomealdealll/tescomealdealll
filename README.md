@@ -6,9 +6,9 @@ i like to code in python cause its ez
 
 sub to my yt  : https://youtube.com/c/tescomealdeal
 
-### invite my bot (please)
+### invite my bot (please, its my main project rn)
 
-- [invite](https://discord.com/oauth2/authorize?client_id=860612939307810846&permissions=8&scope=bot)
+- [invite](https://discord.com/api/oauth2/authorize?client_id=860612939307810846&permissions=1375933426774&scope=bot%20applications.commands)
 - [top.gg](https://top.gg/bot/860612939307810846)
 - [discordbotlist](https://discordbotlist.com/bots/barry/upvote)
 
