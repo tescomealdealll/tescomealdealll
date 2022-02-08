@@ -6,4 +6,5 @@ i like to code in python cause its ez
 - [top.gg](https://top.gg/bot/860612939307810846)
 
 
-- ![Tesco's View Count](https://komarev.com/ghpvc/?username=tescomealdealll&style=flat-square)
+
+![Tesco's View Count](https://komarev.com/ghpvc/?username=tescomealdealll&style=flat-square)
